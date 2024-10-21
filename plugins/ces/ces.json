@@ -12,9 +12,9 @@
     }
   ],
   "paths": {
-    "/v1/images/generations": {
+    "/v1/images/generations1": {
       "post": {
-        "operationId": "Dalle3",
+        "operationId": "ces",
         "x-openai-isConsequential": false,
         "summary": "openai's dall-e image generator.",
         "requestBody": {
