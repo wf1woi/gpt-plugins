@@ -3,9 +3,9 @@
   "info": {
     "title": "ces",
     "version": "1.0.0",
-    "type": "bearer",
-    "location": "header",
-    "token": "222222"
+    "authType": "bearer",
+    "authLocation": "header",
+    "tokenValue": "222222"
   },
   "servers": [
     {
