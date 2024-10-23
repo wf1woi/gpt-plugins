@@ -1,7 +1,7 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "Dalle3",
+    "title": "图片生成",
     "version": "1.0.0"
   },
   "servers": [
